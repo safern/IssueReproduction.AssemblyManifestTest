@@ -2,7 +2,7 @@
 
 namespace AssemblyManifestTest
 {
-    class Test
+    public class Test
     {
         public void DoSomething()
         {
